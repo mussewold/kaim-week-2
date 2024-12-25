@@ -5,5 +5,10 @@ psycopg2-binary
 sqlalchemy
 matplotlib
 seaborn
+numpy
+scikit-learn
+jupyter
+streamlit
+plotly
 
 
